@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Boxer Generator",
+  "description": "Transform photos into 16-bit pixel art boxing characters with idle, walk, and punch sprites for 2D fighting games.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
